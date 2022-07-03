@@ -4,3 +4,9 @@
 /* h5 a{ */
 
 /* } */
+
+.bg {
+  background-image: url('../images/thailand.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
