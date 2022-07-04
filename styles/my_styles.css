@@ -10,3 +10,17 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.fa-thumbs-up {
+  color: green;
+}
+.fa-thumbs-down {
+  color: red;
+}
+.fa-circle {
+  font-size: 9px;
+  text-align: center;
+}
+.green-icon {
+  color: green;
+}
